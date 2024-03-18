@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle( "TestHarness" )]
+[assembly: AssemblyTitle( "TimeKontroll" )]
 [assembly: AssemblyDescription( "" )]
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "HP" )]
-[assembly: AssemblyProduct( "TestHarness" )]
+[assembly: AssemblyProduct( "TimeKontroll" )]
 [assembly: AssemblyCopyright( "Copyright © HP 2012" )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]

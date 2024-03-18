@@ -1,0 +1,17 @@
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.csproj.AssemblyReference.cache
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.Form1.resources
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.csproj.GenerateResource.cache
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.csproj.CoreCompileInputs.cache
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\WindowsFormsCalendar.dll
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\WindowsFormsCalendar.pdb
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.csproj.CopyComplete
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKontroll.exe.config
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKontroll.exe
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKontroll.pdb
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.Properties.Resources.resources
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.exe
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.pdb
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKontroll.exe.manifest
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKontroll.application
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.exe.manifest
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.application
