@@ -73,7 +73,7 @@
             // 
             this.lblKundeNavn.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblKundeNavn.AutoSize = true;
-            this.lblKundeNavn.Location = new System.Drawing.Point(118, -286);
+            this.lblKundeNavn.Location = new System.Drawing.Point(118, 15);
             this.lblKundeNavn.Name = "lblKundeNavn";
             this.lblKundeNavn.Size = new System.Drawing.Size(74, 13);
             this.lblKundeNavn.TabIndex = 5;
@@ -102,7 +102,7 @@
             // 
             this.Label10.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.Label10.AutoSize = true;
-            this.Label10.Location = new System.Drawing.Point(19, -264);
+            this.Label10.Location = new System.Drawing.Point(19, 42);
             this.Label10.Name = "Label10";
             this.Label10.Size = new System.Drawing.Size(79, 13);
             this.Label10.TabIndex = 26;
@@ -157,7 +157,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(610, 326);
+            this.ClientSize = new System.Drawing.Size(614, 317);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.TbOppdrag);
