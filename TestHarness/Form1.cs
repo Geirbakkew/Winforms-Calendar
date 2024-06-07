@@ -396,8 +396,32 @@ namespace TimeKontroll
 
         }
 
-        
-    
+        private void Calendar1_ItemCreating(object sender, CalendarItemCancelEventArgs e)
+        {
+
+// MessageBox.Show(Calendar1.SelectedElementStart.Date.ToString());
+//          MessageBox.Show(Calendar1.SelectedElementEnd.Date.ToString());
+            DatoValgt.TextData = Calendar1.SelectedElementStart.Date.ToString("yyyyMMdd");
+            StartTid.TextData = Calendar1.SelectedElementStart.Date.ToString("HHmm");
+            StopTid.TextData = Calendar1.SelectedElementEnd.Date.AddMinutes(15).ToString("HHmm");
+
+
+            AddEditTimer f2 = new AddEditTimer();
+            f2.ShowDialog(); // Shows Form2
+
+        }
+    }
+    public static class DatoValgt
+    {
+        public static string TextData { get; set; }
+    }
+    public static class StartTid
+    {
+        public static string TextData { get; set; }
+    }
+    public static class StopTid
+    {
+        public static string TextData { get; set; }
     }
 }
 

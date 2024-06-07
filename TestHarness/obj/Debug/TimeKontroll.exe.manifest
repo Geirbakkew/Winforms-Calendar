@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TimeKontroll.exe" size="34728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TimeKontroll.exe" size="46504">
       <assemblyIdentity name="TimeKontroll" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9/Du/ewUhjT8S9xXUaDivcrbROa9v/hsmnmj/yWIq2o=</dsig:DigestValue>
+        <dsig:DigestValue>/KXyMhcidm15sjOR9gLh6BLYLpzaQ4xGfMtkIyni390=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

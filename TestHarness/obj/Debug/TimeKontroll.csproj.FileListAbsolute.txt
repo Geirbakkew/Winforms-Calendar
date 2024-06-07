@@ -15,3 +15,4 @@ C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKont
 C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\bin\Debug\TimeKontroll.application
 C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.exe.manifest
 C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.application
+C:\Users\GeirBakke\source\repos\Winforms-Calendar\TestHarness\obj\Debug\TimeKontroll.AddEditTimer.resources

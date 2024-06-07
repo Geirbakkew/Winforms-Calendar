@@ -854,6 +854,7 @@
             this.Calendar1.TabIndex = 2;
             this.Calendar1.Text = "Calendar1";
             this.Calendar1.TimeScale = WindowsFormsCalendar.CalendarTimeScale.FifteenMinutes;
+            this.Calendar1.ItemCreating += new WindowsFormsCalendar.Calendar.CalendarItemCancelEventHandler(this.Calendar1_ItemCreating);
             // 
             // Form1
             // 
