@@ -336,12 +336,19 @@ namespace TimeKontroll
                 TidbruktKonsulent = 0;
                 TidbruktKunde = 0;
             }
+            else if (Kunde == "FER")
+            {
+                Fravar = TidbruktKonsulent;
+                TidbruktKonsulent = 0;
+                TidbruktKunde = 0;
+            }
             else if (Kunde == "MAT")
             {
                 Avspassering = TidbruktKonsulent;
                 TidbruktKonsulent = 0;
                 TidbruktKunde = 0;
             }
+
             else { }
 
             using (var conn = CreateConnection())

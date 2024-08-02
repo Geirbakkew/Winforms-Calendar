@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestHarness",
+    "\\WindowsFormsCalendar",
+    "\\WindowsFormsCalendar\\help",
+    "\\WindowsFormsCalendar\\Renderers"
   ],
-  "SelectedNode": "\\WindowsFormsCalendar.sln",
+  "SelectedNode": "\\WindowsFormsCalendar\\help\\Documentation.chm",
   "PreviewInSolutionExplorer": false
 }

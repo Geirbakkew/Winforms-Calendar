@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\addedittimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\addedittimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|c:\\users\\geirbakke\\source\\repos\\geirbakkew\\winforms-calendar\\testharness\\addedittimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\addedittimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\addedittimer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\addedittimer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25649F08-3046-4891-ADB8-7EA787B57063}|WindowsFormsCalendar\\WindowsFormsCalendar.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\windowsformscalendar\\calendartimescaleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25649F08-3046-4891-ADB8-7EA787B57063}|WindowsFormsCalendar\\WindowsFormsCalendar.csproj|solutionrelative:windowsformscalendar\\calendartimescaleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TestHarness.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TestHarness.csproj|solutionrelative:testharness\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25649F08-3046-4891-ADB8-7EA787B57063}|WindowsFormsCalendar\\WindowsFormsCalendar.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\windowsformscalendar\\renderers\\calendarrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25649F08-3046-4891-ADB8-7EA787B57063}|WindowsFormsCalendar\\WindowsFormsCalendar.csproj|solutionrelative:windowsformscalendar\\renderers\\calendarrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25649F08-3046-4891-ADB8-7EA787B57063}|WindowsFormsCalendar\\WindowsFormsCalendar.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\windowsformscalendar\\usercontrols\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25649F08-3046-4891-ADB8-7EA787B57063}|WindowsFormsCalendar\\WindowsFormsCalendar.csproj|solutionrelative:windowsformscalendar\\usercontrols\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\TimeTidtaker\\TimeTidtaker\\Properties\\PublishProfiles\\FolderProfile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\testharness\\form1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3A1985B-E396-4125-A176-61C2AEE5A41F}|TestHarness\\TimeKontroll.csproj|solutionrelative:testharness\\form1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditTimer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\AddEditTimer.Designer.cs",
+              "RelativeDocumentMoniker": "TestHarness\\AddEditTimer.Designer.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\AddEditTimer.Designer.cs",
+              "RelativeToolTip": "TestHarness\\AddEditTimer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:29.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditTimer.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\AddEditTimer.cs",
+              "RelativeDocumentMoniker": "TestHarness\\AddEditTimer.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\AddEditTimer.cs",
+              "RelativeToolTip": "TestHarness\\AddEditTimer.cs",
+              "ViewState": "AQIAADMBAAAAAAAAAAAuwFIBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:29.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditTimer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\AddEditTimer.cs",
+              "RelativeDocumentMoniker": "TestHarness\\AddEditTimer.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\AddEditTimer.cs [Design]",
+              "RelativeToolTip": "TestHarness\\AddEditTimer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:29.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.cs",
+              "RelativeDocumentMoniker": "TestHarness\\Form1.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Winforms-Calendar\\TestHarness\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Winforms-Calendar\\TestHarness\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T06:11:29.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestHarness\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.Designer.cs",
+              "RelativeToolTip": "TestHarness\\Form1.Designer.cs",
+              "ViewState": "AQIAABYAAABUX2ZmZqYvwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T06:11:29.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\TimeTidtaker\\TimeTidtaker\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "..\\..\\TimeTidtaker\\TimeTidtaker\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\TimeTidtaker\\TimeTidtaker\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "..\\..\\TimeTidtaker\\TimeTidtaker\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2023-11-26T10:45:16.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.resx",
+              "RelativeDocumentMoniker": "TestHarness\\Form1.resx",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.resx",
+              "RelativeToolTip": "TestHarness\\Form1.resx",
+              "ViewState": "AQIAACMAAAAAAAAAAAAlwEEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T06:11:29.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\WindowsFormsCalendar\\Renderers\\CalendarRenderer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsCalendar\\Renderers\\CalendarRenderer.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\WindowsFormsCalendar\\Renderers\\CalendarRenderer.cs",
+              "RelativeToolTip": "WindowsFormsCalendar\\Renderers\\CalendarRenderer.cs",
+              "ViewState": "AQIAAIACAAAAAAAAAAAcwPgCAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:29.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\WindowsFormsCalendar\\UserControls\\Calendar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsCalendar\\UserControls\\Calendar.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\WindowsFormsCalendar\\UserControls\\Calendar.cs",
+              "RelativeToolTip": "WindowsFormsCalendar\\UserControls\\Calendar.cs",
+              "ViewState": "AQIAACcFAAAAAAAAAAAcwGEFAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-06-10T06:11:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.cs",
+              "RelativeDocumentMoniker": "TestHarness\\Form1.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.cs",
+              "RelativeToolTip": "TestHarness\\Form1.cs",
+              "ViewState": "AQIAAG0BAAAAAAAAAIAwwJcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T06:11:29.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarTimeScaleUnit.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\WindowsFormsCalendar\\CalendarTimeScaleUnit.cs",
+              "RelativeDocumentMoniker": "WindowsFormsCalendar\\CalendarTimeScaleUnit.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\WindowsFormsCalendar\\CalendarTimeScaleUnit.cs",
+              "RelativeToolTip": "WindowsFormsCalendar\\CalendarTimeScaleUnit.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAAAHQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestHarness\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Winforms-Calendar\\TestHarness\\Form1.Designer.cs",
+              "RelativeToolTip": "TestHarness\\Form1.Designer.cs",
+              "ViewState": "AQIAAIIAAABUX2ZmZqYvwKMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T06:11:29.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
