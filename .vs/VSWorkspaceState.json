@@ -3,9 +3,8 @@
     "",
     "\\TestHarness",
     "\\WindowsFormsCalendar",
-    "\\WindowsFormsCalendar\\help",
     "\\WindowsFormsCalendar\\Renderers"
   ],
-  "SelectedNode": "\\WindowsFormsCalendar\\help\\Documentation.chm",
+  "SelectedNode": "\\TestHarness\\AddEditTimer.cs",
   "PreviewInSolutionExplorer": false
 }

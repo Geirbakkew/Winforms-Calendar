@@ -338,6 +338,8 @@ namespace TimeKontroll
             }
             else if (Kunde == "FER")
             {
+                if ((double)TidbruktKonsulent > 7.5) {TidbruktKonsulent = (decimal)7.5; }
+                 
                 Fravar = TidbruktKonsulent;
                 TidbruktKonsulent = 0;
                 TidbruktKunde = 0;
